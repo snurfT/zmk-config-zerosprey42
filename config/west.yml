@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: glebsexy
-      revision: rp2040-zero-plus-combos-fix
+      revision: add-rp2040-zero
       import: app/west.yml
   self:
     path: config
